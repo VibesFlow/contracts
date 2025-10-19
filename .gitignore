@@ -1,0 +1,21 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+broadcast/
+lib/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+# References
+contracts-ref
+_archive
+
+# Tests
+test/
+deployments.md
